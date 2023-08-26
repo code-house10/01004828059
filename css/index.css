@@ -15,7 +15,7 @@ body
 }
 #preloader
 {
-   background: #FFFFFF url("../images/moving2.gif") no-repeat center center;
+   background: #FFFFFF url("../images/moving.gif") no-repeat center center;
    bottom: 0;
    position: fixed;
    top: 0;
